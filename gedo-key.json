@@ -1,0 +1,16 @@
+[
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "sanggedo",
+    "password": "sanggedo",
+    "expiresAt": "2026-12-20",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user1",
+    "password": "pass2",
+    "expiresAt": "2026-11-20",
+    "allowOffline": false
+  }
+]
