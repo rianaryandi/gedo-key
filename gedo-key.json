@@ -1,14 +1,44 @@
 [
-    {
-        "device_id": "6a1fbb606adf0139",
-        "key": "key12345",
-        "expirydate": "1-3-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "1-06-2026",
-        "Allowoffline": false
-    }
+  {
+    "Device Id": "6a1fbb606adf0139", 
+    "username": "gedo",
+    "password": "gedo",
+    "expiry": "2026-10-15" // DATE FORMAT~ YYYY-MM-DD
+  },
+  {
+    "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
+    "username": "abc",
+    "password": "101",
+    "expiry": "2026-09-29"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "def",
+    "password": "102",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "ghi",
+    "password": "103",
+    "expiry": "2026-01-01"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "jkl",
+    "password": "104",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "mno",
+    "password": "105",
+    "expiry": "2025-10-04"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "pqr",
+    "password": "106",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+  }
 ]
